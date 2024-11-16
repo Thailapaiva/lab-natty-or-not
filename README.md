@@ -18,8 +18,9 @@ Utilizei o "ChatGPT" para escrever e revisar o roteiro do vídeo. O "D-ID" foi u
 ## 🚀 Resultados
 
 O vídeo é uma introdução acessível ao campo das IAs Generativas, ideal para quem busca uma compreensão rápida do assunto.
+[Acesse o vídeo aqui](https://github.com "Acesse o video aqui")
 
-LINK PARA O VÍDEO AQUI
+
 
 ## 💭 Reflexão
 
